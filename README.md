@@ -63,6 +63,11 @@ src/
 - npm run dev
 
 ##  Screenshot
+![image](https://github.com/user-attachments/assets/9d719b48-f0f5-4ab3-abf9-ea464f3115c6)
+
+![image](https://github.com/user-attachments/assets/d48bd549-c3ad-44e3-b305-182ee0a988da)
+
+
 
 ## Clone the Repo
 ```bash
