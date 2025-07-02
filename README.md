@@ -72,6 +72,6 @@ src/
 ## Clone the Repo
 ```bash
 git clone https://github.com/<your-username>/lab3-context-todo.git
-cd lab3-context-todo
+cd lab3-todo-context
 
 
